@@ -1,0 +1,1 @@
+This project is a Rust implementation of my original Naive Bayes program written in Python (naive-bayes). Unsurprisingly, it runs quite a bit more quickly. It's likely terrible code since it's my first real Rust project.
